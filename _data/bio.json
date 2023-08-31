@@ -9,7 +9,7 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024. After graduation, I plan to pursue a career in software engineering.",
     "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "email", "username": "Loelle Lam", "url": "loelle@hawaii.edu" },
+      { "network": "email", "username": "loellelam", "url": "loelle@hawaii.edu" },
       { "network": "github", "username": "loellelam", "url": "http://github.com/loellelam" },
       { "network": "linkedin", "username": "loellelam", "url": "http://linkedin.com/in/loellelam" }
     ]
@@ -67,6 +67,18 @@
         "Troubleshoot software, hardware and networking issues over the phone",
         "Respond to phone calls, emails, chat inquires directed to the ITS Help Desk"
       ]
+    },
+    {
+      "company": "Leeward Community College",
+      "position": "Tutor",
+      "website": "https://www2.leeward.hawaii.edu/lrc/",
+      "startDate": "2022-05-01",
+      "endDate": "2022-08-01",
+      "summary": "Content tutor",
+      "highlights": [
+        "Tutor first-year computer science courses",
+        "Create and present a workshop offering tips for success in computer science"
+      ]
     }
   ],
   "volunteer": [
@@ -85,28 +97,22 @@
   ],
   "awards": [
     {
-      "title": "Lung Doo Benevolent Society",
+      "title": "Lung Doo Benevolent Society Scholarship'",
       "date": "2023-Present",
       "awarder": "Lung Doo Benevolent Society",
-      "summary": "todo."
+      "summary": "Awarded to students of Lung Doo descent based on academic merit."
     },
     {
-      "title": "todo",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2021-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Awarded to students with a minimum 3.8 GPA upon the time of application to the University of Hawaii at Manoa."
     },
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2021-Present",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "todo",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "summary": "Awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     }
   ],
   "references": [
