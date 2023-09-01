@@ -1,12 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "The Javascript Odyssey"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-31
 published: true
 labels:
   - Javascript
+  - Athletic Software Engineering
 ---
 
 *Difficulty: a thing that is hard to accomplish, deal with, or understand.*
