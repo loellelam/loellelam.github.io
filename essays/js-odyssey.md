@@ -16,9 +16,9 @@ JavaScript is a versatile programming language that has garnered both admiration
 
 The idiosyncrasies of JavaScript, such as its syntax, asynchronous behavior, support for first-class functions, and the ability to return various data types, differs from the conventions of more traditional languages like Python, Java, or C/C++. I appreciate these idiosyncrasies as they provide programmers with a broader spectrum of tools that can be used to craft innovative software applications. One drawback is the additional time investment required to acquire new knowledge, yet I believe this investment is more than worthwhile.
 
-## Prior Experience and Learning from ES6
+## Prior Experience and Learning ES6
 
-During my time in high school, I gained early exposure to JavaScript, with one noteworthy experience involving the use of Processing p5.js. I developed a web-based game utilizing Processing, which is currently accessible on my GitHub repository. While in high school, my JavaScript learning primarily encompassed fundamental concepts, without delving into advanced topics such as functional programming, lambda functions, and the like.
+During my time in high school, I gained early exposure to JavaScript, with one noteworthy experience involving the use of Processing p5.js. I developed a web-based game utilizing Processing, which is currently accessible on my [GitHub repository](https://github.com/loellelam/Potato-Prevent). While in high school, my JavaScript learning primarily encompassed fundamental concepts, without delving into advanced topics such as functional programming, lambda functions, and the like.
 
 Recently, upon completing a module on ES6 via FreeCodeCamp, I was pleasantly surprised by the addition of new features and increased complexity. Among the novel concepts I encountered were anonymous functions, destructuring, the use of rest parameters (including rest parameters within destructuring), as well as promises and JavaScript code import/export mechanisms. This exposure broadened my understanding of JavaScript considerably.
 
