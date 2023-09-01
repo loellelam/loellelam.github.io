@@ -10,44 +10,24 @@ labels:
   - Athletic Software Engineering
 ---
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+## Initial Impressions of JavaScript
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+JavaScript is a versatile programming language that has garnered both admiration and criticism in the world of software development. For newcomers and seasoned programmers alike, its unique characteristics and applications can be both fascinating and challenging. 
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+The idiosyncrasies of JavaScript, such as its syntax, asynchronous behavior, support for first-class functions, and the ability to return various data types, differs from the conventions of more traditional languages like Python, Java, or C/C++. I appreciate these idiosyncrasies as they provide programmers with a broader spectrum of tools that can be used to craft innovative software applications. One drawback is the additional time investment required to acquire new knowledge, yet I believe this investment is more than worthwhile.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+## Prior Experience and Learning from ES6
 
-Here's what I think: the difficult things will always be difficult.
+During my time in high school, I gained early exposure to JavaScript, with one noteworthy experience involving the use of Processing p5.js. I developed a web-based game utilizing Processing, which is currently accessible on my GitHub repository. While in high school, my JavaScript learning primarily encompassed fundamental concepts, without delving into advanced topics such as functional programming, lambda functions, and the like.
 
-## In the context of programming
+Recently, upon completing a module on ES6 via FreeCodeCamp, I was pleasantly surprised by the addition of new features and increased complexity. Among the novel concepts I encountered were anonymous functions, destructuring, the use of rest parameters (including rest parameters within destructuring), as well as promises and JavaScript code import/export mechanisms. This exposure broadened my understanding of JavaScript considerably.
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+## The Concept of Athletic Software Engineering and WODs
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+Athletic Software Engineering is a novel approach that emphasizes continual practice and skill development, much like athletes hone their abilities. This approach encourages regular engagement in coding challenges and exercises. The goal is to productively and successfully learn a tech stack. Workouts of the Day (WODs) are integral to Athletic Software Engineering. They are timed problems that force students to learn the tech stack correctly and efficiently. 
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+## My Experience with the Athletic Software Engineering Learning Approach
 
-## In the context of engineering
+My engagement with practice WODs within the context of the Athletic Software Engineering style of learning proved to be an invaluable experience for honing my coding skills with efficiency. As I had never previously coded under time constraints, this presented a novel and challenging situation for me. I had to swiftly adapt to the imposed time limitations, and I achieved this by initially identifying the critical components of the WOD, writing comments outlining the necessary steps, and subsequently proceeding with the coding process.
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+Despite the inherent stress associated with this learning method, I believe that it will ultimately be beneficial. The pressure to perform and the consistent practice it encourages will undoubtedly contribute to my growth and proficiency in coding.
