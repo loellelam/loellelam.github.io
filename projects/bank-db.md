@@ -73,3 +73,7 @@ Skyward Realm
 ```
 
 To view the full project, visit my [GitHub](https://github.com/loellelam/Bank-Database).
+
+## Takeaways
+
+Throughout this project, I honed my proficiency in C++ structs, input and output, and pointers. The experience of tackling a substantial project like this taught me how to deconstruct intricate tasks into manageable steps, facilitating consistent and purposeful progress. I also learned the significance of comprehensive documentation in software engineering, enhancing my ability to maintain code clarity through clear and concise comments. These not only enriched my own comprehension but also serve as a valuable resource for future viewers.
