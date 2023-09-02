@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/huffman-1.png
 title: "Huffman Coding"
 date: 2021
 published: true
@@ -10,9 +10,9 @@ labels:
 summary: "A compression algorithm based on Huffman trees."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
-
 This Huffman coding project was undertaken as part of my coursework in ICS 211. Its primary aim was to foster a comprehensive understanding of Huffman trees and their application in file compression. An additional objective was to gain proficiency in file input and output operations in the Java programming language.
+
+<img class="img-fluid" src="../img/huffman-2.png">
 
 In the course of this project, I successfully implemented a Huffman tree, which is key to encoding and decoding. The tree is structured such that fewer bits are required to represent high-frequency characters, thus optimizing compression efficiency. 
 
