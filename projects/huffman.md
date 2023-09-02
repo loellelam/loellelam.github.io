@@ -12,16 +12,12 @@ summary: "A compression algorithm based on Huffman trees."
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
 
-this huffman coding project was for my ICS 211 class. the main purpose was to get familiar with huffman trees and use them to compress a file. the other objective was to learn how to read and write to files in java. 
+This Huffman coding project was undertaken as part of my coursework in ICS 211. Its primary aim was to foster a comprehensive understanding of Huffman trees and their application in file compression. An additional objective was to gain proficiency in file input and output operations in the Java programming language.
 
-i implemented a Huffman tree which allows encoding and decoding using the tree. The tree is the key to encoding and decoding as it's structured so that fewer bits are required to represent high frequency characters.  my text file gets encoded into a bit string.
+In the course of this project, I successfully implemented a Huffman tree, which is key to encoding and decoding. The tree is structured such that fewer bits are required to represent high-frequency characters, thus optimizing compression efficiency. 
 
-gets compressed into a bit string.
+During encoding, the text file is transformed into a concise bit string representation. Subsequently, Huffman decoding utilizes the same Huffman tree employed in encoding, along with the encoded bit string, to reconstruct the original text. This process involves left traversal for zero bits and right traversal for one bits.
 
-Huffman decoding takes the same Huffman tree as was used for encoding, and a bit string containing the encoding, and reproduces the original text by traversing the tree to the left for every zero bit and to the right for every one bit.
-
-
-
-i tested my compression algorithm and it turned the original file was 933 bytes into the compressed file is 494 bytes.
+I validated the effectiveness of the compression algorithm on one file. The original text was 933 bytes and my algorithm reduced the file size down to 494 bytes. Success!
 
 View the full project on my [GitHub](https://github.com/loellelam/Huffman-Coding).
