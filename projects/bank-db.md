@@ -12,6 +12,8 @@ labels:
 summary: "A mock bank database that provides basic functionality including adding, printing, finding, and deleting records."
 ---
 
+<img class="img-fluid" style="width: 200px" src="../img/bank-db.png">
+
 The "Bank Database" project serves as my final project in my Spring 2022 ICS 212 course. The primary objective behind this project was to consolidate and apply the knowledge and skills acquired throughout the entire semester, culminating in the development of a comprehensive final project.
 
 The program serves as a user interface for managing a bank database. It allows users to interact with a linked list data structure, offering menu options to add new records, print all existing records, find records by account number, delete records by account number, and exit the program. The user interface is text-based and guides users through each operation, such as entering account numbers, names, and multi-line addresses when adding new records. The program handles input validation to ensure data integrity and provides appropriate feedback to users.
