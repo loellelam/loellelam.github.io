@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/potato.png
 title: "Potato Prevent"
 date: 2020
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "A game to enhance typing proficiency."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/potato-prevent-playing.png">
 
 During my high school years, I learned Processing (p5.js) as part of my coursework. In one of our assignments, we developed a rudimentary side-scrolling game, an experience that inspired me to create my own game using the p5.js library. My motivation for starting this project was to provide my younger sibling a fun experience that also serves to enhance her typing skills.
 
