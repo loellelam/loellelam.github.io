@@ -18,7 +18,9 @@
     { "name": "Software Development" },
     { "name": "Robotics" },
     { "name": "Web Development" },
-    { "name": "Game Development" }
+    { "name": "AI/ML" },
+    { "name": "Game Development" },
+    { "name": "Mobile Development" }
   ],
   "skills": [
     {
