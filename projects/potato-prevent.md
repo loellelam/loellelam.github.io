@@ -23,4 +23,4 @@ The gameplay involves contending with a horde of potatoes that advance towards t
  
 View the full project on my [GitHub](https://github.com/loellelam/Potato-Prevent) or [play now](https://loellelam.github.io/Potato-Prevent/)!
 
-Disclaimer: Compatibility may vary across devices and browsers. This project has been tested and verified to work on the Google Chrome browser running on Windows.
+<span style="color:red">Disclaimer:</span> Compatibility may vary across devices and browsers. This project has been tested and verified to work on the Google Chrome browser running on Windows.
