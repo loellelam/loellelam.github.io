@@ -12,7 +12,7 @@ labels:
 summary: "A mock bank database that provides basic functionality including adding, printing, finding, and deleting records."
 ---
 
-<img class="img-fluid" style="width: 200px" src="../img/bank-db.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/bank-db.png">
 
 The "Bank Database" project serves as my final project in my Spring 2022 ICS 212 course. The primary objective behind this project was to consolidate and apply the knowledge and skills acquired throughout the entire semester, culminating in the development of a comprehensive final project.
 
