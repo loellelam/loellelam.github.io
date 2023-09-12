@@ -23,3 +23,7 @@ During encoding, the text file is transformed into a concise bit string represen
 I validated the effectiveness of the compression algorithm on one file. The original text was 933 bytes and my algorithm reduced the file size down to 494 bytes. Success!
 
 View the full project on my [GitHub](https://github.com/loellelam/Huffman-Coding).
+
+## Takeaways
+
+Through my Huffman coding project, I deepened my understanding of Huffman trees and their pivotal role in data compression. This project allowed me to grasp the fundamental concept of encoding characters with variable-length codes based on their frequencies, ultimately optimizing compression efficiency. Moreover, I honed my Java programming skills, particularly in file input and output operations, as I needed to work with text files. My proficiency in Java improved as I successfully read a file, implemented Huffman encoding and decoding by integrating provided BitString and Huffman classes, and wrote the output to another file. This hands-on experience with Java programming proved invaluable and will undoubtedly benefit me in future programming endeavors.
