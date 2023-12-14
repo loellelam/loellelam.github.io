@@ -10,6 +10,8 @@ labels:
   - StackOverflow
 ---
 
+<img width="300px" class="rounded float-start pe-4" src="../img/question.png">
+
 ## The Importance of Smart Questions
 
 One of the paramount reasons for software engineers to pose intelligent and well-structured questions is to obtain efficient and effective assistance. When engineers formulate smart questions, it greatly enhances the likelihood of receiving precise and pertinent solutions. The context in which this often transpires is on platforms such as Stack Overflow, a community where professionals generously volunteer their expertise to aid their peers. The act of posing smart questions serves as an emblem of respect towards the community, signifying that the inquirer has diligently researched their issue and values the time that potential respondents might expend in their aid.

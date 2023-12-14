@@ -11,6 +11,8 @@ labels:
   - Future
 ---
 
+<img width="300px" class="rounded float-start pe-4" src="../img/swe-code.png">
+
 As a college student, my journey into the realm of software engineering has been an exhilarating exploration of technology, creativity, and problem-solving. From the first lines of code I wrote, I was drawn into the captivating world of software development, where every challenge offered an opportunity for innovation. This passion has led me to contemplate the exciting path that lies ahead, and I am determined to acquire a diverse set of skills and experiences that will define my future in this dynamic field.
 
 ## Skills Mastery: Architecting Tomorrow's Solutions

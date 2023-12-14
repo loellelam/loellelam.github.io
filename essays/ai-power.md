@@ -4,7 +4,7 @@ type: essay
 title: "Navigating the Coding Landscape Through an AI Lens"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-21
-published: true
+published: false
 labels:
   - AI
   - Software Engineering

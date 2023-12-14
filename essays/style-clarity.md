@@ -9,6 +9,8 @@ labels:
   - Coding Standards
 ---
 
+<img width="300px" class="rounded float-start pe-4" src="../img/eslint.png">
+
 *In the world of software engineering, readability is the invisible thread that weaves together the fabric of efficient coding.* 
 
 ## Readability Leads to Efficiency in Coding

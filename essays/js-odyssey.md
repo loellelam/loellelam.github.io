@@ -10,6 +10,8 @@ labels:
   - Athletic Software Engineering
 ---
 
+<img width="300px" class="rounded float-start pe-4" src="../img/js.png">
+
 ## Initial Impressions of JavaScript
 
 JavaScript is a versatile programming language that has garnered both admiration and criticism in the world of software development. For newcomers and seasoned programmers alike, its unique characteristics and applications can be both fascinating and challenging. 

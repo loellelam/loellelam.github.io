@@ -7,6 +7,9 @@ date: 2023-12-13
 published: true
 labels:
   - Software Engineering
+  - Open Source
+  - Agile Development
+  - Functional Programming
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/agile-dev.jpg">
