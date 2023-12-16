@@ -25,11 +25,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS", "p5.js", "Python" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS", "p5.js", "Python", "Meteor", "React", "Bootstrap" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows OS", "Ubuntu", "Git/GitHub", "g++", "VS Code" ]
+      "keywords": [ "Windows OS", "Ubuntu", "Git/GitHub/GitHub Desktop", "g++", "VS Code", "IntelliJ" ]
     }
   ],
   "education": [
@@ -61,6 +61,7 @@
       "highlights": [
         "Develop iCOSMOS-Swarm tools",
         "Develop agents within COSMOS",
+        "Process JSON data and feed it into the COSMOS propagator. Write the output back into a JSON file.",
         "Write clear and concise documentation for all COSMOS projects"
       ]
     },

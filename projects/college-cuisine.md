@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/huffman-1.png
+image: img/home-cropped.png
 title: "College Cuisine Connect"
 date: 2023
 published: true
