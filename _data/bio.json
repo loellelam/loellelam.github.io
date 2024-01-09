@@ -1,0 +1,147 @@
+{
+  "basics": {
+    "name": "Loelle Lam",
+    "label": "Student",
+    "picture": "https://github.com/loellelam.png",
+    "email": "loelle@hawaii.edu",
+    "phone": "808-258-9782",
+    "website": "https://loellelam.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2024. After graduation, I plan to pursue a Master's in Computer Science at UHM.",
+    "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "loellelam", "url": "http://github.com/loellelam" },
+      { "network": "linkedin", "username": "loellelam", "url": "http://linkedin.com/in/loellelam" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Software Development" },
+    { "name": "Robotics" },
+    { "name": "Web Development" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS", "p5.js", "Python", "SQL", "Meteor", "React", "Bootstrap" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows OS", "Ubuntu", "Git/GitHub/GitHub Desktop", "g++", "VS Code", "IntelliJ" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2024), GPA 3.90",
+      "studyType": "B.S.",
+      "startDate": "2021-08-23",
+      "endDate": "Present",
+      "courses": [
+        "Software Engineering",
+        "Algorithms",
+        "Program Structure in C/C++",
+        "Data Networks",
+        "Database Systems",
+        "Data Visualization",
+        "Discrete Mathematics"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Interstel Technologies",
+      "position": "Software Engineering Intern",
+      "website": "https://www.interstel.tech/",
+      "startDate": "2023-07-31",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Develop iCOSMOS-Swarm tools",
+        "Develop agents within COSMOS",
+        "Process JSON data and feed it into the COSMOS propagator. Write the output back into a JSON file.",
+        "Write clear and concise documentation for all COSMOS projects"
+      ]
+    },
+    {
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2023-06-21",
+      "endDate": "2023-07-28",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Respond to phone calls, emails, chat inquires directed to the ITS Help Desk"
+      ]
+    },
+    {
+      "company": "Leeward Community College",
+      "position": "Tutor",
+      "website": "https://www2.leeward.hawaii.edu/lrc/",
+      "startDate": "2022-05-01",
+      "endDate": "2022-08-01",
+      "summary": "",
+      "highlights": [
+        "Tutor first-year computer science courses",
+        "Create and present a workshop offering tips for success in computer science"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Association for Computing Machinery at Mānoa",
+      "website": "https://acmmanoa.org/",
+      "position": "Member",
+      "startDate": "2021-08",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Grey Hats (Jan 2022 - May 2022): Attend biweekly meetings and learn about cybersecurity.",
+        "Programming and Algorithms (Aug 2021 - Dec 2021): Attend weekly meetings to discuss and tackle interview-style programming problems."
+      ]
+    },
+    {
+      "organization": "808 Cleanups",
+      "website": "https://808cleanups.org/",
+      "position": "Treasurer & Cleanup Volunteer",
+      "startDate": "2019-08-01",
+      "endDate": "2021-05-01",
+      "summary": "Treasurer for the 808 Cleanups Club at Roosevelt High School",
+      "highlights": [
+        "Remove litter, graffiti, and marine debris from all around the island of Oahu",
+        "Document and strategize the allocation of club funds"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Dean's List",
+      "date": "Fall 2021-Fall 2023",
+      "awarder": "University of Hawai'i at M​ānoa",
+      "summary": "Awarded to students that earn a semester GPA of 3.5 or higher as a full-time student."
+    },
+    {
+      "title": "Lung Doo Benevolent Society Scholarship",
+      "date": "2023-Present",
+      "awarder": "Lung Doo Benevolent Society",
+      "summary": "Awarded to students of Lung Doo descent based on academic merit."
+    },
+    {
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2021-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Awarded to students with a minimum 3.8 GPA upon the time of application to the University of Hawaii at Manoa."
+    },
+    {
+      "title": "B+ Scholarship",
+      "date": "2021-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}

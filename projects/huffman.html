@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Huffman Coding | Loelle Lam | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/loellelam.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Loelle Lam | Professional Portfolio">
+    <meta property="og:url" content="https://loellelam.github.io/projects/huffman.html">
+    <meta property="og:title" content="Huffman Coding | Loelle Lam | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/loellelam.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Huffman Coding | Loelle Lam | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Loelle Lam</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Huffman Coding</h1>
+ <p>This Huffman coding project was undertaken as part of my coursework in ICS 211. Its primary aim was to foster a comprehensive understanding of Huffman trees and their application in file compression. An additional objective was to gain proficiency in file input and output operations in the Java programming language.</p>
+
+<p><img class="img-fluid" src="../img/huffman-2.png" /></p>
+
+<p>Professor Edo Biagioni provided students with the BitStringInterface.java, BitString.java, and Huffman.java files. The BitStringInterface.java file contains the methods that must be implemented in BitString.java. The BitString.java file handles bits and bytes by representing it as an array of booleans. The Huffman.java file implements a Huffman tree, which is key to encoding and decoding. The tree is structured such that fewer bits are required to represent high-frequency characters, thus optimizing compression efficiency.</p>
+
+<p>In the course of this project, I successfully read a file, used the Huffman tree to encode the file, and wrote the output to another file.</p>
+
+<p>During encoding, the text file is transformed into a concise bit string representation. Subsequently, Huffman decoding utilizes the same Huffman tree employed in encoding, along with the encoded bit string, to reconstruct the original text. This process involves left traversal for zero bits and right traversal for one bits.</p>
+
+<p>I validated the effectiveness of the compression algorithm on one file. The original text was 933 bytes and my algorithm reduced the file size down to 494 bytes. Success!</p>
+
+<p>View the full project on my <a href="https://github.com/loellelam/Huffman-Coding">GitHub</a>.</p>
+
+<h2 id="takeaways">Takeaways</h2>
+
+<p>Through my Huffman coding project, I deepened my understanding of Huffman trees and their pivotal role in data compression. This project allowed me to grasp the fundamental concept of encoding characters with variable-length codes based on their frequencies, ultimately optimizing compression efficiency. Moreover, I honed my Java programming skills, particularly in file input and output operations, as I needed to work with text files. My proficiency in Java improved as I successfully read a file, implemented Huffman encoding and decoding by integrating provided BitString and Huffman classes, and wrote the output to another file. This hands-on experience with Java programming proved invaluable and will undoubtedly benefit me in future programming endeavors.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
