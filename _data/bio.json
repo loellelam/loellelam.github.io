@@ -6,7 +6,7 @@
     "email": "loelle@hawaii.edu",
     "phone": "808-258-9782",
     "website": "https://loellelam.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024. After graduation, I plan to pursue a career in software engineering.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2024. After graduation, I plan to pursue a Master's in Computer Science at UHM.",
     "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "loellelam", "url": "http://github.com/loellelam" },
@@ -17,15 +17,12 @@
     { "name": "Software Engineering" },
     { "name": "Software Development" },
     { "name": "Robotics" },
-    { "name": "Web Development" },
-    { "name": "AI/ML" },
-    { "name": "Game Development" },
-    { "name": "Mobile Development" }
+    { "name": "Web Development" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS", "p5.js", "Python", "Meteor", "React", "Bootstrap" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS", "p5.js", "Python", "SQL", "Meteor", "React", "Bootstrap" ]
     },
     {
       "name": "Toolsets/OS",
@@ -92,6 +89,18 @@
   ],
   "volunteer": [
     {
+      "organization": "Association for Computing Machinery at Mānoa",
+      "website": "https://acmmanoa.org/",
+      "position": "Member",
+      "startDate": "2021-08",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Grey Hats (Jan 2022 - May 2022): Attend biweekly meetings and learn about cybersecurity.",
+        "Programming and Algorithms (Aug 2021 - Dec 2021): Attend weekly meetings to discuss and tackle interview-style programming problems."
+      ]
+    },
+    {
       "organization": "808 Cleanups",
       "website": "https://808cleanups.org/",
       "position": "Treasurer & Cleanup Volunteer",
@@ -105,6 +114,12 @@
     }
   ],
   "awards": [
+    {
+      "title": "Dean's List",
+      "date": "Fall 2021-Fall 2023",
+      "awarder": "University of Hawai'i at M​ānoa",
+      "summary": "Awarded to students that earn a semester GPA of 3.5 or higher as a full-time student."
+    },
     {
       "title": "Lung Doo Benevolent Society Scholarship",
       "date": "2023-Present",
