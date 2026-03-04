@@ -4,7 +4,7 @@ type: essay
 title: "Mastering Inquiry: How Smart Questions Drive Success"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-07
-published: true
+published: false
 labels:
   - Smart Questions
   - StackOverflow

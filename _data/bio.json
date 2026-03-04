@@ -6,8 +6,8 @@
     "email": "loelle@hawaii.edu",
     "phone": "808-258-9782",
     "website": "https://loellelam.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2024. After graduation, I plan to pursue a Master's in Computer Science at UHM.",
-    "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I’m currently pursuing a Master of Science in Computer Science at the University of Hawaii at Manoa and will graduate in May 2026. My interests lie in software engineering, data visualization, and machine learning. I enjoy building tools that transform complex data into meaningful and accessible insights.\n\nMy capstone project involves creating a browser-based application that generates 3D printable terrain models from Digital Elevation Models (DEMs). This work aims to support domain scientists in scientific communication and education by making geographic data more tangible and accessible.\n\nI’m passionate about using coding to make a positive impact in my community and consider myself a lifelong learner who enjoys tackling challenging problems and building practical solutions. I’m particularly interested in building interactive data-driven applications and exploring how machine learning and visualization can work together to help people better understand complex information. As I approach graduation, I’m seeking software engineering opportunities where I can contribute to impactful projects, continue learning, and collaborate with strong technical teams.",
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "loellelam", "url": "http://github.com/loellelam" },
       { "network": "linkedin", "username": "loellelam", "url": "http://linkedin.com/in/loellelam" }
@@ -15,18 +15,18 @@
   },
   "interests": [
     { "name": "Software Engineering" },
-    { "name": "Software Development" },
-    { "name": "Robotics" },
+    { "name": "Data Visualization" },
+    { "name": "Machine Learning" },
     { "name": "Web Development" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS", "p5.js", "Python", "SQL", "Meteor", "React", "Bootstrap" ]
+      "keywords": [ "Java", "Javascript", "HTML", "CSS", "Python", "C", "C++", "p5.js", "SQL", "React", "Bootstrap" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "Windows OS", "Ubuntu", "Git/GitHub/GitHub Desktop", "g++", "VS Code", "IntelliJ" ]
+      "name": "Toolsets",
+      "keywords": [ "Git/GitHub/GitHub Desktop", "Docker", "Linux", "VS Code", "IntelliJ", "Microsoft Office", "Google Suites" ]
     }
   ],
   "education": [
