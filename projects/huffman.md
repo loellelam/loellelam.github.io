@@ -10,7 +10,7 @@ labels:
 summary: "A compression algorithm based on Huffman trees."
 ---
 
-This Huffman coding project was undertaken as part of my coursework in ICS 211. Its primary aim was to foster a comprehensive understanding of Huffman trees and their application in file compression. An additional objective was to gain proficiency in file input and output operations in the Java programming language.
+This Huffman coding project was part of my coursework in ICS 211 Intro to Computer Science 2. Its primary aim was to help me understand how Huffman trees work and their application in file compression. Another key focus was to gain proficiency in file input and output operations in the Java programming language.
 
 <img class="img-fluid" src="../img/huffman-2.png">
 
@@ -26,4 +26,4 @@ View the full project on my [GitHub](https://github.com/loellelam/Huffman-Coding
 
 ## Takeaways
 
-Through my Huffman coding project, I deepened my understanding of Huffman trees and their pivotal role in data compression. This project allowed me to grasp the fundamental concept of encoding characters with variable-length codes based on their frequencies, ultimately optimizing compression efficiency. Moreover, I honed my Java programming skills, particularly in file input and output operations, as I needed to work with text files. My proficiency in Java improved as I successfully read a file, implemented Huffman encoding and decoding by integrating provided BitString and Huffman classes, and wrote the output to another file. This hands-on experience with Java programming proved invaluable and will undoubtedly benefit me in future programming endeavors.
+Through my Huffman coding project, I deepened my understanding of Huffman trees and their role in data compression. This project allowed me to grasp the fundamental concept of encoding characters with variable-length codes based on their frequencies, ultimately optimizing compression efficiency. Moreover, I developed my Java programming skills, particularly in file input and output operations, as I needed to work with text files. My proficiency in Java improved as I successfully read a file, implemented Huffman encoding and decoding by integrating provided BitString and Huffman classes, and wrote the output to another file.

@@ -14,7 +14,7 @@ summary: "A mock bank database that provides basic functionality including addin
 
 <img width="200px" class="rounded float-start pe-4" src="../img/bank-db.png">
 
-The "Bank Database" project serves as my final project in my Spring 2022 ICS 212 course. The primary objective behind this project was to consolidate and apply the knowledge and skills acquired throughout the entire semester, culminating in the development of a comprehensive final project.
+The "Bank Database" project serves as my final project in my Spring 2022 ICS 212 Program Structure course. The primary objective behind this project was to consolidate and apply the knowledge and skills acquired throughout the entire semester, resulting in the development of a comprehensive final project.
 
 The program serves as a user interface for managing a bank database. It allows users to interact with a linked list data structure, offering menu options to add new records, print all existing records, find records by account number, delete records by account number, and exit the program. The user interface is text-based and guides users through each operation, such as entering account numbers, names, and multi-line addresses when adding new records. The program handles input validation to ensure data integrity and provides appropriate feedback to users.
 
@@ -76,4 +76,4 @@ To view the full project, visit my [GitHub](https://github.com/loellelam/Bank-Da
 
 ## Takeaways
 
-Throughout this project, I honed my proficiency in C++ structs, input and output, and pointers. The experience of tackling a substantial project like this taught me how to deconstruct intricate tasks into manageable steps, facilitating consistent and purposeful progress. I also learned the significance of comprehensive documentation in software engineering, enhancing my ability to maintain code clarity through clear and concise comments. These not only enriched my own comprehension but also serve as a valuable resource for future viewers.
+Throughout this project, I honed my proficiency in C++ structs, input and output, and pointers. The experience of tackling a substantial project like this taught me how to deconstruct intricate tasks into manageable steps to keep progress steady and focused. I also learned the significance of comprehensive documentation in software engineering, enhancing my ability to maintain code clarity through clear and concise comments. These not only enriched my own comprehension but also serve as a valuable resource for future viewers.
